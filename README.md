@@ -1,5 +1,6 @@
 # Factify-2.0
 https://aiisc.ai/defactify2/factify.html
+https://codalab.lisn.upsaclay.fr/competitions/8275
 <h3>Overview</h3>
 <p>A Multi-Modal Fact Verification dataset released as part of the <a href="https://aiisc.ai/defactify2/">De-Factify 2 workshop</a> in AAAI-23</p>
 <p>Combating fake news is one of the burning societal crisis. It is difficult to expose false claims before they create a lot of damage. Automatic fact/claim verification has recently become a topic of interest among diverse research communities. Research efforts and datasets on text fact verification could be found, but there is not much attention towards multi-modal or cross-modal fact-verification. This shared task encourages researchers from interdisciplinary domains working on multi-modality and/or fact-checking to come together and work on multimodal fact-checking/fact-verification.</p>
