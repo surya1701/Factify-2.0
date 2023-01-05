@@ -1,5 +1,6 @@
 # Factify-2.0
 https://aiisc.ai/defactify2/factify.html
+
 https://codalab.lisn.upsaclay.fr/competitions/8275
 <h3>Overview</h3>
 <p>A Multi-Modal Fact Verification dataset released as part of the <a href="https://aiisc.ai/defactify2/">De-Factify 2 workshop</a> in AAAI-23</p>
